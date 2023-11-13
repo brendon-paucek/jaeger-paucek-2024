@@ -1,6 +1,7 @@
 /* Add this to your "styles.css" file */
 
 /* Style the navigation bar as tabs */
+
 nav ul {
     list-style: none;
     padding: 0;
@@ -35,4 +36,10 @@ section {
 
 section.active {
     display: block;
+}
+
+h1,
+h2,
+p {
+    font-family: Arial, Helvetica, sans-serif;
 }
